@@ -1,0 +1,36 @@
+body{
+    background-color: darkseagreen;
+}
+
+header{
+    align-items: center;
+    text-align: center;
+}
+
+main p{
+margin-top:100px;
+}
+
+img{
+    display:flex;
+    align-items: center;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    Display: flex;
+    Margin: auto;
+    border-radius:5px;
+}
+
+.FreePalestine{
+    display:flex;
+    align-items: center;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    Display: flex;
+    Margin: auto;
+    border-radius:5px;
+}

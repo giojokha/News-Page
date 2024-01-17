@@ -1,0 +1,48 @@
+body{
+    background-color:cornsilk;
+}
+
+
+header{
+    text-align: center;
+}
+
+.span1{
+    Color:Green;
+}
+
+.span2{
+    Color:Red;
+}
+
+Main{
+    text-align: center;
+    
+}
+
+.OL1{
+    margin-top: 20px;
+    list-style-type: none;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-decoration:none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h3 h4{
+    text-decoration: none;
+}
+
+
+
+img{
+    width:300px;
+}
+
+img:hover{
+    cursor:pointer;
+}
